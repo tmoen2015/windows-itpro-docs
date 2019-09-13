@@ -19,7 +19,7 @@ ms.topic: conceptual
 
 # Microsoft Defender Advanced Threat Protection
 
->Want to experience Microsoft Defender ATP? [Sign up for a free trial.](https://www.microsoft.com/WindowsForBusiness/windows-atp?ocid=docs-wdatp-main-abovefoldlink)
+>Want to experience Microsoft Defender ATP? [Sign up for a free trial.](https://www.microsoft.com/WindowsForBusiness/windows-atp?ocid=docs-wdatp-main-abovefoldlink) Here is the correct page to sign up for a free trial Simply click the blue button top middld of theis page https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp 
 >
 >For more info about Windows 10 Enterprise Edition features and functionality, see [Windows 10 Enterprise edition](https://www.microsoft.com/WindowsForBusiness/buy).
 
